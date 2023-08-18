@@ -32,6 +32,5 @@
 #
 <div> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jessyekessia&theme=omni&hide_border=false&include_all_commits=false&count_private=false" alt="jessyekessia" /> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessyekessia&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="jessyekessia" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessyekessia&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="jessyekessia" /></p>
 </div>
