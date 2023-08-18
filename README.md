@@ -4,7 +4,7 @@
 	<img alt="jessyekessia's stars" src="https://img.shields.io/github/stars/jessyekessia?color=blueviolet" />
 </p>
 
-[![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars and a pixelated cat.](img/poster_galaxy-2.gif)](https://www.linkedin.com/in/jessyekessia/)
+[![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars and a pixelated cat.](poster_galaxy-2.gif)](https://www.linkedin.com/in/jessyekessia/)
 
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px"> I'm Jessye</h1>
 
