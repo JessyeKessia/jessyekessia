@@ -8,10 +8,16 @@
 
 <h2 align="center">Hello, I'm Jessye <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <div align="center" ><img src="https://img.shields.io/badge/jessyekessia16@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="jessyekessia16@gmail.com"> <a href="https://www.linkedin.com/in/jessye-pereira-b4733b1b7/"><img src="https://img.shields.io/badge/Jessye Pereira-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> </div>
+<br>
+<div>
+	<ul>
+  	<h3><li>🔭 I'm trying to be a full-stack software engineer </li></h3>
+  	<h3><li> 🌱 I'm currently studying Internet Systems at IFPB✨</li></h3>
+  	<h3><li>⚡ I'm linguist and semiotician </li></h3>
+	<h3><li> 💬 Ask me about <strong> cat </strong> and i'll tell you a lot </li></h3>
+	</ul>
+</div>
 
-
-
-<h3 align="center">I'm trying to be a full-stack software engineer and I'm currently studying Internet Systems at IFPB✨.</h3>
 
 <div align="center">
 
