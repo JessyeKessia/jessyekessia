@@ -6,7 +6,7 @@
 
 [![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars and a pixelated cat.](poster_galaxy-2.gif)](https://www.linkedin.com/in/jessyekessia/)
 
-<h1 align="center">Hello, <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px"> I'm Jessye</h1>
+<h2 align="center">Hello, I'm Jessye <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <h3 align="center">I'm trying to be a full-stack software engineer and I'm currently studying Internet Systems at IFPB✨.</h3>
 
