@@ -7,6 +7,9 @@
 [![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars and a pixelated cat.](poster_galaxy-2.gif)](https://www.linkedin.com/in/jessyekessia/)
 
 <h2 align="center">Hello, I'm Jessye <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<div align="center" ><img src="https://img.shields.io/badge/jessyekessia16@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="jessyekessia16@gmail.com"> <a href="https://www.linkedin.com/in/jessye-pereira-b4733b1b7/"><img src="https://img.shields.io/badge/Jessye Pereira-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> </div>
+
+
 
 <h3 align="center">I'm trying to be a full-stack software engineer and I'm currently studying Internet Systems at IFPB✨.</h3>
 
@@ -26,9 +29,6 @@
 
 </div>
 
-<p align="right">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jessye-pereira-b4733b1b7/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jessye-pereira-b4733b1b7/"/></a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jessyekessia&show_icons=true&title_color=b52c9c&text_color=000000&locale=en&layout=compact" alt="jessyekessia" /></p>
 
