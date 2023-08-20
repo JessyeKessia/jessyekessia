@@ -7,31 +7,53 @@
 [![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars and a pixelated cat.](poster_galaxy-2.gif)](https://www.linkedin.com/in/jessyekessia/)
 
 <h2 align="center">Hello, I'm Jessye <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<div align="center" ><img src="https://img.shields.io/badge/jessyekessia16@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="jessyekessia16@gmail.com"> <a href="https://www.linkedin.com/in/jessye-pereira-b4733b1b7/"><img src="https://img.shields.io/badge/Jessye Pereira-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> </div>
+
+<div align="center" > 
+	<a href="#" alt="Gmail"> 
+		<img src="https://img.shields.io/badge/jessyekessia16@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+	<a href="https://www.linkedin.com/in/jessye-pereira-b4733b1b7/" alt="LinkedIn"> 
+		<img src="https://img.shields.io/badge/Jessye Pereira-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 <br>
+
+<a href="#" alt="LinkedIn">
 <div>
 	<ul>
-  	<h3><li>🔭 I'm trying to be a full-stack software engineer </li></h3>
-  	<h3><li> 🌱 I'm currently studying Internet Systems at IFPB✨</li></h3>
-  	<h3><li>⚡ I'm linguist and semiotician </li></h3>
-	<h3><li> 💬 Ask me about <strong> cat </strong> and i'll tell you a lot </li></h3>
+  	<li>🔭 I'm trying to be a full-stack software engineer </li>
+  	<li> 🌱 I'm currently studying Internet Systems at IFPB✨</li>
+  	<li>⚡ I'm linguist and semiotician </li>
 	</ul>
 </div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-
-<div align="center">
+<div>
 
 ### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+<p align="left">
+	  <a alt="Python">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <p align="left">
+	  <a alt="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 
 ### Technologies
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+<p align="left">
+	  <a alt="Git">
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /></a>
+<p align="left">
+	  <a alt="HTML">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<p align="left">
+	  <a alt="CSS">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>
 
-### OS
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### Operational system
+<p align="left">
+	  <a alt="Linux">
+  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" /></a>
+<p align="left">
+	  <a alt="Windows">
+  <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" /></a>
 
 </div>
 
