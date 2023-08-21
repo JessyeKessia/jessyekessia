@@ -16,14 +16,6 @@
 </div>
 <br>
 
-<a href="#" alt="LinkedIn">
-<div>
-	<ul>
-  	<li>🔭 I'm trying to be a full-stack software engineer </li>
-  	<li> 🌱 I'm currently studying Internet Systems at IFPB✨</li>
-  	<li>⚡ I'm linguist and semiotician </li>
-	</ul>
-</div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <div>
