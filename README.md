@@ -47,7 +47,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-jessyekessia16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessyekessia16@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-Jessye%20Kessia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessyekessia/)
 
-![Jessye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessyekessia&show_icons=true&theme=radical)
-
-
+![GitHub Snake](https://github.com/jessyekessia/jessyekessia/blob/output/github-contribution-grid-snake.gif)
 
