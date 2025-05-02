@@ -8,49 +8,46 @@
 
 <h2 align="center">Hello, I'm Jessye <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<div align="center" > 
-	<a href="#" alt="Gmail"> 
-		<img src="https://img.shields.io/badge/jessyekessia16@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-	<a href="https://www.linkedin.com/in/jessye-pereira-b4733b1b7/" alt="LinkedIn"> 
-		<img src="https://img.shields.io/badge/Jessye Pereira-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+<p align="center">
+  💻 Desenvolvedora apaixonada por tecnologia em nuvem e IA | 🌍 Explorando o universo da programação
+</p>
+
 <br>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTh6dDkyc2lkZm5vdXlpZ2RxZzVyYmU2cGFoenRvNG5zYnYwMDNkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
+<p align="center">
+  <img src="https://media3.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200px" />
+  <img src="https://media3.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200px" />
+</p>
 
-<div>
 
-### Languages
-<p align="left">
-	  <a alt="Python">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <p align="left">
-	  <a alt="JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 
-### Technologies
-<p align="left">
-	  <a alt="Git">
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /></a>
-<p align="left">
-	  <a alt="HTML">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<p align="left">
-	  <a alt="CSS">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>
+## 🚀 Linguagens de Programação
 
-### Operational system
-<p align="left">
-	  <a alt="Linux">
-  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" /></a>
-<p align="left">
-	  <a alt="Windows">
-  <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" /></a>
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript)](https://skillicons.dev)
 
-</div>
 
-#
-<div> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jessyekessia&theme=omni&hide_border=false&include_all_commits=false&count_private=false" alt="jessyekessia" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessyekessia&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="jessyekessia" /></p>
-</div>
+
+## ☁️ Nuvem e Inteligência Artificial
+[![My Tools](https://skillicons.dev/icons?i=azure,aws)](https://skillicons.dev)
+
+## 🛠️ Ferramentas e Tecnologias
+
+[![My Tools](https://skillicons.dev/icons?i=angular,git,html,css)](https://skillicons.dev)
+
+
+
+## 💻 Sistemas Operacionais
+
+[![OS](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+
+
+
+## 📫 Contato
+
+[![Gmail Badge](https://img.shields.io/badge/-jessyekessia16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessyekessia16@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Jessye%20Kessia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessyekessia/)
+
+![Jessye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessyekessia&show_icons=true&theme=radical)
+
+
+
