@@ -47,5 +47,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-jessyekessia16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessyekessia16@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-Jessye%20Kessia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessyekessia/)
 
-![GitHub Snake](https://github.com/jessyekessia/jessyekessia/blob/output/github-contribution-grid-snake.gif)
-
