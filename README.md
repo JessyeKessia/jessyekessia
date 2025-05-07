@@ -16,25 +16,25 @@
 
 <p align="center">
   <img src="https://media3.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200px" />
-  <img src="https://media3.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200px" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHY5Nzk4YW1wMmxvcjczbGVhM3FmNDdzY2Q4cTFpeWlldWJibnhqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif" width="200px" />
 </p>
 
 
 
 ## 🚀 Linguagens de Programação
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript)](https://skillicons.dev)
 
-
-
-## ☁️ Nuvem e Inteligência Artificial
+## ☁️ Nuvem
 [![My Tools](https://skillicons.dev/icons?i=azure,aws)](https://skillicons.dev)
+
+## 🎲 Bancos de Dados
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql)](https://skillicons.dev)
 
 ## 🛠️ Ferramentas e Tecnologias
 
 [![My Tools](https://skillicons.dev/icons?i=angular,git,html,css)](https://skillicons.dev)
-
-
 
 ## 💻 Sistemas Operacionais
 
