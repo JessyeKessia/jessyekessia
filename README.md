@@ -47,3 +47,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-jessyekessia16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessyekessia16@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-Jessye%20Kessia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessyekessia/)
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jessyekessia/jessyekessia/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jessyekessia/jessyekessia/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jessyekessia/jessyekessia/output/pacman-contribution-graph.svg">
+</picture>
+
