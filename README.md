@@ -12,8 +12,6 @@
   💻 Desenvolvedora apaixonada por tecnologia em nuvem e IA | 🌍 Explorando o universo da programação
 </p>
 
-<br>
-
 ## 🚀 Linguagens de Programação
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript)](https://skillicons.dev)
