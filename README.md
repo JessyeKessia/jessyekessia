@@ -14,13 +14,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200px" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHY5Nzk4YW1wMmxvcjczbGVhM3FmNDdzY2Q4cTFpeWlldWJibnhqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif" width="200px" />
-</p>
-
-
-
 ## 🚀 Linguagens de Programação
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript)](https://skillicons.dev)
